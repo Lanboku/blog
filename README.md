@@ -1,3 +1,3 @@
-# blog
+# Next blog
 
 Next.js
