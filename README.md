@@ -1,3 +1,3 @@
 # Next blog
 
-Next.js
+学習後に作成予定。
